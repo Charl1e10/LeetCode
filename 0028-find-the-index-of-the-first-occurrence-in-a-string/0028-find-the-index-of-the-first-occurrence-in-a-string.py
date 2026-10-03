@@ -4,6 +4,8 @@ class Solution:
             for j in range(i ,len(haystack) + 1):
                 if haystack[i:j] == needle:
                     return i
-        
         else:
             return -1
+
+#Pythons built in solution:
+#return haystack.find(needle)
