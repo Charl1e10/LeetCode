@@ -6,6 +6,7 @@
 | [0001-two-sum](https://github.com/Charl1e10/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Charl1e10/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Charl1e10/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/Charl1e10/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,4 +52,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Charl1e10/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/Charl1e10/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
