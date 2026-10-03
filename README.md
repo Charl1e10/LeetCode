@@ -3,6 +3,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Charl1e10/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Charl1e10/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Charl1e10/LeetCode/tree/main/0027-remove-element/) | Easy |
 ## Two Pointers
@@ -10,4 +11,8 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Charl1e10/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Charl1e10/LeetCode/tree/main/0027-remove-element/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Charl1e10/LeetCode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
