@@ -16,17 +16,9 @@ class Solution:
                 answer.next = list2
                 list2 = list2.next
                 answer = answer.next
-
         if list1 is not None:
-            while list1 is not None:
                 answer.next = list1
-                list1 = list1.next
-                answer = answer.next
-        
         else:
-            while list2 is not None:
                 answer.next = list2
-                list2 = list2.next
-                answer = answer.next
         
         return head.next
