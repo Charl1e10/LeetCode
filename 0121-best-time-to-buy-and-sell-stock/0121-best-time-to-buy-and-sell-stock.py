@@ -7,7 +7,7 @@ class Solution:
         for i in range(len(prices)):
             if prices[i] < buy:
                 buy = prices[i]
-                day = i
+                bday = i
                 sell = 0
             if prices[i] > sell and bday < i:
                 sell = prices[i]
