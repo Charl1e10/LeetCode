@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Charl1e10/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Charl1e10/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Charl1e10/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/Charl1e10/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Charl1e10/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Charl1e10/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Charl1e10/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -59,6 +60,7 @@
 | [0009-palindrome-number](https://github.com/Charl1e10/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Charl1e10/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/Charl1e10/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
+| [0048-rotate-image](https://github.com/Charl1e10/LeetCode/tree/main/0048-rotate-image/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Charl1e10/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0832-flipping-an-image](https://github.com/Charl1e10/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Charl1e10/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Simulation
