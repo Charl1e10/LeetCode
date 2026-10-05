@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/Charl1e10/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Charl1e10/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Charl1e10/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0832-flipping-an-image](https://github.com/Charl1e10/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Charl1e10/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -20,6 +21,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Charl1e10/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Charl1e10/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Charl1e10/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0832-flipping-an-image](https://github.com/Charl1e10/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Charl1e10/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
+| [0832-flipping-an-image](https://github.com/Charl1e10/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,5 +101,10 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/Charl1e10/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Charl1e10/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0832-flipping-an-image](https://github.com/Charl1e10/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 <!---LeetCode Topics End-->
