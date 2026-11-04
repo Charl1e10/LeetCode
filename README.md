@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Charl1e10/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Charl1e10/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Charl1e10/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0704-binary-search](https://github.com/Charl1e10/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0832-flipping-an-image](https://github.com/Charl1e10/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Charl1e10/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Two Pointers
@@ -81,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Charl1e10/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0704-binary-search](https://github.com/Charl1e10/LeetCode/tree/main/0704-binary-search/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
