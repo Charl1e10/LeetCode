@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/Charl1e10/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Charl1e10/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Charl1e10/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0217-contains-duplicate](https://github.com/Charl1e10/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0832-flipping-an-image](https://github.com/Charl1e10/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Charl1e10/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Two Pointers
@@ -31,6 +32,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Charl1e10/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Charl1e10/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Charl1e10/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0217-contains-duplicate](https://github.com/Charl1e10/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,4 +119,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Charl1e10/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Charl1e10/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
